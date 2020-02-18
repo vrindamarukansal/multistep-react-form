@@ -1,5 +1,5 @@
 {
-  "name": "my-first-app",
+  "name": "multistep-react-form",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://vrindamarukansal.github.io/my-first-app"
+  "homepage": "http://vrindamarukansal.github.io/multistep-react-form"
 }
